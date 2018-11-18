@@ -40,10 +40,10 @@ You will get your name mentioned here with your GitHub profile link.
 * Day 9: Drop-Down Navigation Menu
 * Day 10: Responsive Login Screen
 * Day 11: Landing Page with Bootstrap<br>
-  * Follow along: https://youtu.be/Zn64_IVLO88
+  * Follow along [tutorial here] (https://youtu.be/Zn64_IVLO88)
 * Day 12: Responsive Web Design
 * Day 13: PSD to HTML<br>
-  * Follow along: https://thesiteslinger.com/blog/tutorial-how-to-code-your-psd-into-a-html-css-layout
+  * Follow along [tutorial here] (https://thesiteslinger.com/blog/tutorial-how-to-code-your-psd-into-a-html-css-layout)
 * Day 14: Responsive Pricing Table
 * Day 15: Fully Responsive Box-Model
 
