@@ -11,7 +11,7 @@ I did not use JavaScript though as I first wanted to have a good grasp on HTML a
 <br>
 
 ### How to Take this Challenge:
-* Fork/Clone this repository.
+* Fork and Clone this repository to your local machine.
 * Start from Day1 index.html by running it into your default browser (Preferably Chrome).
 * Don't look at it's HTML and CSS until you are done writing and running your own version of that project.
 * For any help look at StackOverflow, YouTube and Google is your best friend.
@@ -39,10 +39,10 @@ You will get your name mentioned here with your GitHub profile link.
 * Day 8: Parallax Effect
 * Day 9: Drop-Down Navigation Menu
 * Day 10: Responsive Login Screen
-* Day 11: Landing Page with Bootstrap
+* Day 11: Landing Page with Bootstrap<br>
           Follow along: https://youtu.be/Zn64_IVLO88
 * Day 12: Responsive Web Design
-* Day 13: PSD to HTML
+* Day 13: PSD to HTML<br>
           Follow along: https://thesiteslinger.com/blog/tutorial-how-to-code-your-psd-into-a-html-css-layout
 * Day 14: Responsive Pricing Table
 * Day 15: Fully Responsive Box-Model
@@ -52,17 +52,17 @@ You will get your name mentioned here with your GitHub profile link.
 * CodeGrid (YouTube)
 * Online Tutorials (YouTube)
 * Transversy Media (YouTube)
-* W3Schools (Website)
+* W3Schools (Website)<br>
   Link: https://www.w3schools.com/
-* Font Awesome (Website)
+* Font Awesome (Website)<br>
   Link: https://fontawesome.com/
-* Bootstrap (Website)
+* Bootstrap (Website)<br>
   Link: https://getbootstrap.com/
-* Atom Text Editor (Text Editor)
+* Atom Text Editor (Text Editor)<br>
   Link: https://atom.io/
-* Google fonts (Website)
+* Google fonts (Website)<br>
   Link: https://fonts.google.com/
-* Adobe Photoshop (Image Editor)
+* Adobe Photoshop (Image Editor)<br>
   Link: https://www.adobe.com/in/products/photoshop.html
 
 <br>
