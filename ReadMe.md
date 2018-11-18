@@ -40,10 +40,10 @@ You will get your name mentioned here with your GitHub profile link.
 * Day 9: Drop-Down Navigation Menu
 * Day 10: Responsive Login Screen
 * Day 11: Landing Page with Bootstrap<br>
-          - Follow along: https://youtu.be/Zn64_IVLO88
+          * Follow along: https://youtu.be/Zn64_IVLO88
 * Day 12: Responsive Web Design
 * Day 13: PSD to HTML<br>
-          - Follow along: https://thesiteslinger.com/blog/tutorial-how-to-code-your-psd-into-a-html-css-layout
+          * Follow along: https://thesiteslinger.com/blog/tutorial-how-to-code-your-psd-into-a-html-css-layout
 * Day 14: Responsive Pricing Table
 * Day 15: Fully Responsive Box-Model
 
@@ -53,17 +53,17 @@ You will get your name mentioned here with your GitHub profile link.
 * Online Tutorials (YouTube)
 * Transversy Media (YouTube)
 * W3Schools (Website)<br>
-  - Link: https://www.w3schools.com/
+  * Link: https://www.w3schools.com/
 * Font Awesome (Website)<br>
-  - Link: https://fontawesome.com/
+  * Link: https://fontawesome.com/
 * Bootstrap (Website)<br>
-  - Link: https://getbootstrap.com/
+  * Link: https://getbootstrap.com/
 * Atom Text Editor (Text Editor)<br>
-  - Link: https://atom.io/
+  * Link: https://atom.io/
 * Google fonts (Website)<br>
-  - Link: https://fonts.google.com/
+  * Link: https://fonts.google.com/
 * Adobe Photoshop (Image Editor)<br>
-  - Link: https://www.adobe.com/in/products/photoshop.html
+  * Link: https://www.adobe.com/in/products/photoshop.html
 
 <br>
 
