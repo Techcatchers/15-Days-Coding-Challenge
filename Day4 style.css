@@ -1,0 +1,31 @@
+body,h1{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  background-color: #000;
+  
+}
+
+h1{
+  font-size: 150px;
+  margin-top: 15%;
+  text-align: center;
+  letter-spacing: -5px;
+  color: rgba(225,225,225,-1);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIE6Fz_wBJa3gQZe2QhBzWHUGdX3vZ52bVnyx6JkaVw2bpq4vJ);
+  background-repeat: repeat-x;
+  -webkit-background-clip: text;
+  animation: animate 15s linear infinite;
+  
+}
+
+@keyframes animate{
+  0{
+    background-position: left 0px top 10px;
+  }
+  
+  100%{
+    background-position: left 2000px top 10px;
+  }
+  
+}

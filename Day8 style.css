@@ -1,0 +1,96 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  line-height: 1.8em;
+  font-weight: 400;
+  color: #666;
+  
+}
+
+.pimg1, .pimg2, .pimg3 {
+  position: relative;
+  opacity: 0.7;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+
+.pimg1 {
+  background-image: url(https://images.pexels.com/photos/373965/pexels-photo-373965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  min-height: 100%;
+  
+}
+
+.pimg2 {
+  background-image: url(https://images.pexels.com/photos/218983/pexels-photo-218983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  min-height: 400px;
+  
+}
+
+.pimg3 {
+  background-image: url(https://images.pexels.com/photos/92248/pexels-photo-92248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  min-height: 400px;
+  
+}
+
+.section-light, .section-dark, .section-darker {
+  text-align: center;
+  padding: 50px 80px;
+  
+}
+
+.section-light {
+  background-color: #F5F7F9;
+  color: #666;
+  
+}
+
+.section-dark {
+  background-color: #4E5068;
+  color: #ddd;
+  
+}
+
+.section-darker {
+  background-color: #4e4e4e;
+  color: #ddd;
+  
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.ptext .border {
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+  
+}
+
+.border.trans {
+  background-color: transparent;
+  
+}
+
+.border.change {
+  background: rgba(78, 80, 104, 1);
+  
+}
+
+
+
+
+
+
